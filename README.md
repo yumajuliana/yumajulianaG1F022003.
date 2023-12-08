@@ -1,4 +1,4 @@
-![kode readmi 2 2](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/b767f0b2-e975-4f15-8841-6318b6e2d1d5)
+
 # yumajulianaG1F022003
 ## 1. Buatlah perulangan hingga 100 menggunakan Python dengan output sebagai berikut:
 #![kode readmi 1 2](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/e4823816-3995-4c09-b134-6a679fa3c6a1)
