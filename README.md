@@ -1,9 +1,7 @@
-# yumajulianaG1F022003.
-## yumajulianaG1F022003
-
-### 1. Buatlah perulangan hingga 100 menggunakan Python dengan output sebagai berikut:
-
-![kode readmi 1 2](https://github.com/yumajuliana/yumajulianaG1F022003/assets/150018196/5652533a-1929-4a85-bb26-8bbcc95bfa29)
+![kode readmi 2 2](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/b767f0b2-e975-4f15-8841-6318b6e2d1d5)
+# yumajulianaG1F022003
+## 1. Buatlah perulangan hingga 100 menggunakan Python dengan output sebagai berikut:
+#![kode readmi 1 2](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/e4823816-3995-4c09-b134-6a679fa3c6a1)
 
 ### penjelasan kode 
 
@@ -13,12 +11,13 @@ if i % 10 == 0: kode ini digunakan untuk memeriksa atau pengecekan apalah nilai 
 Jika ya, print(your_name * 3): maka akan secara otomatis mencetak Mencetak nilai dari variabel your_name yang dilakukan sebnayak tiga kali 
 Jika tidak, else: print(i, end=' '): Mencetak nilai i dengan spasi di antaranya pada baris yang sama.
 
-### output dari kode di atas 
-![luaran readmi 1 2](https://github.com/yumajuliana/yumajulianaG1F022003/assets/150018196/83533447-6aec-4b78-ba43-ea8f1702e0c3)
+## output dari kode di atas 
+#![luaran readmi 1 2](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/93a827bd-d4ca-4c08-84f3-7da39737adab)
 
 ### 2. Buatlah program bebas, dengan menerapkan if else pada:
  ### a. For Loops
- ![kode readmi 2 1](https://github.com/yumajuliana/yumajulianaG1F022003/assets/150018196/d26b1503-0b6f-4231-becf-b6a629214d55)
+ ![kode readmi 2 1](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/ff28f11d-6595-47fe-908a-063726a554d8)
+
 ### penjelasan kode 
 
 Definisi Fungsi cek_bilangan_prima(start, end): kode ini digunakan untuk menerima dua prameter yaitu star dan end yang akan menunjukkan rentang angka yang di periksa 
@@ -35,10 +34,12 @@ Bagian else Pada Perulangan Pertama: jika angka kurang dari satau atau sama deng
 Jika angka kurang dari atau sama dengan 1, program mencetak bahwa angka tersebut "bukan bilangan prima".
  cek_bilangan_prima(1, 10):
 Fungsi dipanggil dengan rentang dari 1 hingga 10  Hasilnya adalah pengecekan setiap angka dalam rentang tersebut, dan program mencetak apakah angka tersebut adalah bilangan prima atau bukan.
-![luaran readmi 2 1](https://github.com/yumajuliana/yumajulianaG1F022003/assets/150018196/1ae43fc8-91b0-4114-a288-d13399e15f1c)
+
+ ### output kode di atas 
+![luaran readmi 2 1](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/42d41da5-3b93-49be-a1b5-903c67c733bb)
 
 ### b.  While Loo
-![kode readmi 2 2](https://github.com/yumajuliana/yumajulianaG1F022003/assets/150018196/9f030b66-a319-42e6-9bee-3423ade5274f)
+![kode readmi 2 2](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/aaf39404-372d-4342-913c-35b81cfee3ac)
 
 ### penjelasana kode 
 
@@ -57,10 +58,11 @@ Variabel counter ditambah satu setiap iterasi untuk menghitung jumlah iterasi.
 Fungsi dipanggil untuk mengeksekusi  dalamnya dan mencetak hasilnya. Pada setiap eksekusi, angka-angka acak kemudian dicetak apakah itu bilangan genap atau ganjil.
 
 ### output dari kode di atas 
-![luaran readmi 2 2](https://github.com/yumajuliana/yumajulianaG1F022003/assets/150018196/8f758e16-20e1-43a7-9689-c66c272c2966)
+![luaran readmi 2 2](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/616d411f-76c0-4cb5-bcce-bea7aadec064)
 
 ### 3.Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for
-![kode readmi 3](https://github.com/yumajuliana/yumajulianaG1F022003/assets/150018196/bfc5a89e-9b20-44a1-b4ce-fd144c69438c)
+![kode readmi 3](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/6aa799e8-5adb-4864-b9d4-ab13a16acac0)
+
 ### penjelasan kode 
  
 nama_hari = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat"] kode ini digunakan untuk membuat variabel nama_hari yang merupakan list dengan elemen-elemen berupa string ("Senin", "Selasa", "Rabu", "Kamis", "Jumat").
@@ -68,4 +70,5 @@ nama_hari = ["Senin", "Selasa", "Rabu", "Kamis", "Jumat"] kode ini digunakan unt
 for hari in nama_hari: adalah sebuah pernyataan loop for yang digunakan melakukan perulangan melalui setiap elemen dalam list nama_hari.
 print("Hari:", hari) kode ini digunakan untuk mencetak setiap elemen dari list nama_hari dengan menambahkan awalan "Hari:".
 ### output dari kode di atas 
-![luaran readmi 3](https://github.com/yumajuliana/yumajulianaG1F022003/assets/150018196/6bcbf31e-fd17-4506-8cb6-305809867a04)
+![luaran readmi 3](https://github.com/yumajuliana/yumajulianaG1F022003./assets/150018196/f6d4c998-af5c-42e0-97e2-60ded989a5bd)
+
